@@ -1,2 +1,0 @@
-function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Recent posts");window.external.msSiteModeAddJumpListItem("Hello World!","https://imdakif.wordpress.com/2023/08/13/hello-world-2/","https://s1.wp.com/i/favicon.ico");}
-try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
