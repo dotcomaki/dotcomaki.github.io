@@ -724,6 +724,10 @@
 }
 .icon-social-twitter:before {
   content: "\e009";
+  justify-content: center;
+  align-items: center;
+}
+
 }
 .icon-social-facebook:before {
   content: "\e00b";
