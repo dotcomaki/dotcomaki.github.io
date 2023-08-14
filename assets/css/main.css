@@ -1019,7 +1019,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .footer-area .footer-text p {
   font-size: 14px;
   margin-top: 20px;
-  color: #fff;
+  color: #333;
 }
 
 .footer-area .footer-text p a {
@@ -1045,7 +1045,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .footer-2 h3 {
   font-size: 20px;
-  color: #fff;
+  color: #333;
   font-weight: 700;
   padding-bottom: 10px;
   letter-spacing: 0.5px;
@@ -1053,14 +1053,14 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .footer-2 p {
   font-size: 14px;
-  color: #fff;
+  color: #333;
   line-height: 20px;
   margin: 0;
   padding-right: 50px;
 }
 
 .footer-2 ul li a {
-  color: #fff;
+  color: #333;
   font-size: 13px;
   font-weight: 400;
 }
