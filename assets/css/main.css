@@ -1013,7 +1013,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 /* Footer Area Start */
 .footer-area {
-  background: #1C1C20;
+  background: #ffffff;
 }
 
 .footer-area .footer-text p {
@@ -1075,12 +1075,12 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 #copyright p {
   line-height: 42px;
-  color: #fff;
+  color: #333;
   margin: 0;
 }
 
 #copyright p a {
-  color: #fff;
+  color: #333;
 }
 
 #copyright p a:hover {
