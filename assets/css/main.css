@@ -1019,7 +1019,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .footer-area .footer-text p {
   font-size: 14px;
   margin-top: 20px;
-  color: #333;
+  color: #333333;
 }
 
 .footer-area .footer-text p a {
