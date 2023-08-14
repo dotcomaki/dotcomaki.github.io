@@ -406,6 +406,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .timeline li .content-text {
   background: #3E5A4F;
   padding: 20px;
+  border-radius: 25px;
 }
 
 .timeline li .line-title {
