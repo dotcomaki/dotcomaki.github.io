@@ -1,29 +1,27 @@
 {
-  "title": "Resume",
-  "name": "startbootstrap-resume",
-  "version": "4.0.0-beta.2",
-  "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+  "title": "Akif's Resume",
+  "name": "resume",
+  "version": "1",
+  "description": "Akif's Resume made in HTML, CSS, SCSS and Bootstrap",
   "keywords": [
     "css",
     "sass",
     "html",
-    "responsive",
-    "theme",
-    "template"
+    "responsive"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/resume",
+  "homepage": "https://dotcomaki.github.io",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/dotcomaki/dotcomaki.github.io/issues",
+    "email": "dotcomakif@gmail.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Mohammad Akif",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Mohammad Akif (https://dotcomaki.github.io/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+    "url": "https://github.com/dotcomaki/dotcomaki.github.io"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
